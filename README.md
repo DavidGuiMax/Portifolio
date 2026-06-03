@@ -5,6 +5,7 @@ Estudante de Desenvolvimento Full Stack, apaixonado por tecnologia, criação de
 Atualmente estudo Front-End, Back-End e Banco de Dados, desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio profissional.
 
 ![Preview do Portfólio](./preview.png)
+🔗 **[Acesse meu portfólio](https://davidguimax.github.io/Portifolio/)**
 
 ---
 
